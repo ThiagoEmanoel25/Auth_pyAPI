@@ -1,4 +1,4 @@
-**Auth-api: API de Autenticação em Flask com MongoDB**
+#Auth-api: API de Autenticação em Flask com MongoDB#
 
 
 Este é um projeto de API de autenticação simples e robusto, construído com o framework Flask e o banco de dados NoSQL MongoDB. A API oferece endpoints para registro, login e acesso a rotas protegidas usando tokens JWT (JSON Web Tokens).
@@ -6,15 +6,15 @@ Este é um projeto de API de autenticação simples e robusto, construído com o
 🛠️ Tecnologias Utilizadas
 Python 3.10+
 
-Flask: Um micro-framework web para Python.
+*Flask: Um micro-framework web para Python.
 
-Flask-PyMongo: Integração com o banco de dados MongoDB.
+*Flask-PyMongo: Integração com o banco de dados MongoDB.
 
-Flask-Bcrypt: Para criptografia segura de senhas.
+*Flask-Bcrypt: Para criptografia segura de senhas.
 
-PyJWT: Para geração e verificação de tokens JWT.
+*PyJWT: Para geração e verificação de tokens JWT.
 
-python-dotenv: Para gerenciar variáveis de ambiente.
+*python-dotenv: Para gerenciar variáveis de ambiente.
 
 📂 Estrutura do Projeto
 O projeto segue uma estrutura modular, com responsabilidades bem definidas para cada arquivo e pasta:
