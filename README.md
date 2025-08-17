@@ -1,4 +1,4 @@
-#Auth-api: API de Autenticação em Flask com MongoDB#
+#Auth-api: API de Autenticação em Flask com MongoDB
 
 
 Este é um projeto de API de autenticação simples e robusto, construído com o framework Flask e o banco de dados NoSQL MongoDB. A API oferece endpoints para registro, login e acesso a rotas protegidas usando tokens JWT (JSON Web Tokens).
